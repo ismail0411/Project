@@ -1,5 +1,3 @@
--- DATA ANALYSIS FINAL PROJECT JULY COHORT
-
 -- write a query that returns the sales data by product, category, region, and time. 
 
 -- total sales data by Products
